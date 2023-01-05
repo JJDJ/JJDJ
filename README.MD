@@ -5,15 +5,15 @@
 
 - 🌱 Actualmente estoy aprendiendo/fortaleciendo mis conocimientos de **Angular, VueJS, TypeScript y Python**
 
-- 👨‍💻 All of my projects are available at [https://jruedadev.github.io](https://jruedadev.github.io)
+- 👨‍💻 Mis proyectos están ubicados en [https://jruedadev.github.io](https://jruedadev.github.io)
 
 - 💬 Preguntame sobre **Laravel, Codeigniter, Google Cloud, Heroku, DigitalOcean**
 
 - 📫 Me puedes contactar por mail a **librajohan2000@gmail.com**
 
-- 📄 Si quieres conocer sobre mis experiencias y trayectoria laboral [https://jruedadev.github.io/hoja_de_vida.pdf](https://jruedadev.github.io/hoja_de_vida.pdf)
+- 📄 Si quieres conocer sobre mis experiencias y trayectoria laboral [https://jruedadev.github.io/pdf/hoja_de_vida.pdf](Hoja de Vida)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jruedag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jruedag" height="30" width="40" /></a>
 </p>
