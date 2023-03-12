@@ -11,7 +11,11 @@
 
 - 📫 Me puedes contactar por mail a **librajohan2000@gmail.com**
 
-- 📄 Si quieres conocer sobre mis experiencias y trayectoria laboral [https://jruedadev.github.io/pdf/hoja_de_vida.pdf](Hoja de Vida)
+- 📄 Puedes ver mi perfil de Google developer en: **https://g.dev/jruedadev**
+
+- 📄 Puedes ver mi perfil de Miscrosoft Learn en: **https://learn.microsoft.com/en-us/users/JohanRobertoRueda-6907**
+
+- 📄 Si quieres conocer sobre mis experiencias y trayectoria laboral **<a href="https://jruedadev.github.io/pdf/hoja_de_vida.pdf">(Hoja de Vida)</a>**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
