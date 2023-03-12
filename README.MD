@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Johan Roberto Rueda Guinea</h1>
-<h3 align="center">Desarrollador backend Enfocado en PHP - Laravel</h3>
+<h3 align="center">Desarrollador FullStack especializado en PHP - Laravel y VueJS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jruedadev&label=Profile%20views&color=0e75b6&style=flat" alt="jruedadev" /> </p>
 
